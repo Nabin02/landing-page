@@ -1,15 +1,12 @@
 * {
-    /* border: 2px solid red; */
+    /*border: 2px solid red; */
     font-family: "Roboto";
 }
 
 .heading1 {
     background-color: #1F2937;
-    padding-left: 20px;
-    padding-top: 5px;
-    margin: -10px;
     height: 535;
-    min-width: 1440px;
+    min-width: 1400px;
 }
 
 #heading3 {
@@ -21,7 +18,6 @@
     display: flex;
     align-items: baseline;
     margin-top: -15px;
-    font
 }
 
 .menu-one {
@@ -83,7 +79,6 @@
     align-items: center;
     justify-content: center;
     min-width: 500px;
-    margin-left: 50px;
     background-color: grey;
     color: white;
 }
@@ -96,4 +91,77 @@
     padding: 5px;
     padding-left: 25px;
     padding-right: 25px;
+}
+
+.heading6 {
+    display: flex;
+    min-width: 1409px;
+    border: 2px solid red;
+    height: 400px;
+    justify-content: center;
+}
+
+.menu-eight {
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    min-width: 1000px;
+}
+
+.menu-nine {
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.menu-ten {
+    border: 2px solid red;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    align-content: center;
+    height: 250px;
+}
+
+.menu-ten-one,
+.menu-ten-two,
+.menu-ten-three,
+.menu-ten-four {
+    border: 2px solid red;
+    display: flex;
+    width: 140px;
+    text-align: center;
+}
+
+
+
+
+/*
+
+.menu-ten-one {
+    border: 2px solid red;
+    display: flex;
+    /* align-items: flex-end;
+    align-items: center;
+    justify-content: center;
+
+    width: 140px;
+    
+}
+
+.menu-ten-two {
+    border: 2px solid red;
+    display: flex;
+    width: 140px;
+}
+
+.menu-ten-three {
+    border: 2px solid red;
+    display: flex;
+    width: 140px;
+}
+
+.menu-ten-four {
+    border: 2px solid red;
+    display: flex;
+    width: 140px;
 }
