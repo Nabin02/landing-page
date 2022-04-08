@@ -95,7 +95,7 @@
 
 .heading6 {
     display: flex;
-    min-width: 1409px;
+    min-width: 1400px;
     height: 450px;
     justify-content: center;
 }
@@ -141,33 +141,20 @@
     align-content: center;
 }
 
-/*
-
-.menu-ten-one {
+.heading7 {
     border: 2px solid red;
     display: flex;
-    /* align-items: flex-end;
-    align-items: center;
-    justify-content: center;
-
-    width: 140px;
-    
+    height: 450px;
 }
 
-.menu-ten-two {
+.heading8 {
     border: 2px solid red;
-    display: flex;
-    width: 140px;
+    /* display: flex; */
+    height: 350px;
 }
 
-.menu-ten-three {
+.heading9 {
     border: 2px solid red;
-    display: flex;
-    width: 140px;
-}
-
-.menu-ten-four {
-    border: 2px solid red;
-    display: flex;
-    width: 140px;
+    /* display: flex; */
+    height: 100px;
 }
