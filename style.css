@@ -142,9 +142,38 @@
 }
 
 .heading7 {
-    border: 2px solid red;
     display: flex;
     height: 450px;
+    justify-content: center;
+    align-items: center;
+    min-width: 1400px;
+    background-color: #E5E7EB;
+}
+
+.menu-eleven {
+    border: 2px solid blue;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.menu-eleven-one {
+    border: 2px solid green;
+    width: 775px;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 36px;
+}
+
+.menu-eleven-one-one {
+    margin: 0px;
+}
+
+.menu-eleven-two {
+    border: 2px solid red;
+    display: flex;
+    align-self: flex-end;
+    margin: 0px;
 }
 
 .heading8 {
@@ -155,6 +184,11 @@
 
 .heading9 {
     border: 2px solid red;
-    /* display: flex; */
+    display: flex;
     height: 100px;
+    background-color: #1F2937;
+    color: white;
+    justify-content: center;
+    align-items: center;
 }
+
