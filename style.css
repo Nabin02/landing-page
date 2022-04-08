@@ -96,13 +96,11 @@
 .heading6 {
     display: flex;
     min-width: 1409px;
-    border: 2px solid red;
-    height: 400px;
+    height: 450px;
     justify-content: center;
 }
 
 .menu-eight {
-    border: 2px solid red;
     display: flex;
     justify-content: center;
     min-width: 1000px;
@@ -118,22 +116,30 @@
     display: flex;
     align-items: flex-end;
     justify-content: space-around;
-    align-content: center;
+    /* align-content: center; */
     height: 250px;
 }
 
-.menu-ten-one,
-.menu-ten-two,
-.menu-ten-three,
-.menu-ten-four {
+.box-one-one,
+.box-two-one,
+.box-three-one,
+.box-four-one {
     border: 2px solid red;
-    display: flex;
-    width: 140px;
-    text-align: center;
+    height: 150px;
 }
 
-
-
+.menu-ten-one-two,
+.menu-ten-two-two,
+.menu-ten-three-two,
+.menu-ten-four-two {
+    display: flex;
+    border: 2px solid red;
+    width: 150px;
+    text-align: center;
+    align-items: flex-end;
+    justify-content: space-around;
+    align-content: center;
+}
 
 /*
 
