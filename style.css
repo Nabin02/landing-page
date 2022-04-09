@@ -1,6 +1,5 @@
 * {
-    /*border: 2px solid red; */
-    font-family: "Roboto";
+    font-family: roboto, sans-serif;
 }
 
 .heading1 {
@@ -116,7 +115,6 @@
     display: flex;
     align-items: flex-end;
     justify-content: space-around;
-    /* align-content: center; */
     height: 250px;
 }
 
@@ -151,14 +149,12 @@
 }
 
 .menu-eleven {
-    border: 2px solid blue;
     display: flex;
     justify-content: center;
     flex-direction: column;
 }
 
 .menu-eleven-one {
-    border: 2px solid green;
     width: 775px;
     font-style: italic;
     font-weight: lighter;
@@ -170,16 +166,16 @@
 }
 
 .menu-eleven-two {
-    border: 2px solid red;
     display: flex;
     align-self: flex-end;
     margin: 0px;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 .heading8 {
-    border: 2px solid red;
-    /* display: flex; */
     height: 350px;
+    border: 2px solid red;
 }
 
 .heading9 {
