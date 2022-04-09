@@ -90,6 +90,7 @@
     padding: 5px;
     padding-left: 25px;
     padding-right: 25px;
+    border: 2px solid white;
 }
 
 .heading6 {
@@ -175,7 +176,50 @@
 
 .heading8 {
     height: 350px;
+    min-width: 1400px;
     border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-twelve {
+    background-color: #3882F6;
+    color: white;
+    border-radius: 10px;
+    height: 150px;
+    width: 1020px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-twelve-one {
+    margin-left: 125px;
+}
+
+.menu-twelve-two {
+    margin: 0px;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.menu-twelve-three {
+    margin: 0px;
+    margin-top: 5px;
+    color: #E5E7EB;
+}
+
+.button2 {
+    margin-right: 125px;
+    background-color: #3882F6;
+    font-size: 20px;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: 2px solid white;
 }
 
 .heading9 {
