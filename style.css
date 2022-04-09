@@ -112,19 +112,20 @@
 }
 
 .menu-ten {
-    border: 2px solid red;
     display: flex;
     align-items: flex-end;
     justify-content: space-around;
-    height: 250px;
+    height: 216px;
 }
 
 .box-one-one,
 .box-two-one,
 .box-three-one,
 .box-four-one {
-    border: 2px solid red;
+    border: 4px solid #3882F6;
     height: 150px;
+    border-radius: 15px;
+    margin-bottom: 10px;
 }
 
 .menu-ten-one-two,
@@ -132,8 +133,9 @@
 .menu-ten-three-two,
 .menu-ten-four-two {
     display: flex;
-    border: 2px solid red;
-    width: 150px;
+    width: 165px;
+    margin: 0px;
+    color: #454850;
     text-align: center;
     align-items: flex-end;
     justify-content: space-around;
@@ -177,7 +179,6 @@
 .heading8 {
     height: 350px;
     min-width: 1400px;
-    border: 2px solid red;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -223,7 +224,6 @@
 }
 
 .heading9 {
-    border: 2px solid red;
     display: flex;
     height: 100px;
     background-color: #1F2937;
